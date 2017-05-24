@@ -1,0 +1,47 @@
+.general{
+	width: 379px;
+	height: 530px;
+	border: solid black 2px;
+	font-family: Tahoma, sans-serif;
+}
+p {
+	font-size: 22px;
+	text-align: center;
+	margin-top: 15px;
+}
+img{
+	height: 288px;
+}
+.image{
+	padding-left: 64px;
+}
+.loan{
+	background: #8bc144;
+	height: 31px;
+	width: 190px;
+	color: white;
+	text-align: center;
+	font-size: 22px;
+	box-shadow: -3px 3px 0 #9c9c9c;
+}
+.price{
+	height: auto;
+	font-size: 31px;
+	text-align: center;
+	padding-top: 13px;
+	padding-bottom: 13px;
+}
+.button_buy{
+	background: #ff0000;
+	height: auto;
+	color: white;
+	font-size: 28px;
+	text-align: center;
+	width: 228px;
+	text-align: center;
+	margin-left: 64px;
+	box-shadow: 0 4px 0 #850000;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	text-shadow: -2px 2px 0 #990000;
+}

@@ -1,0 +1,18 @@
+.general {
+	width: 900px;
+	height: 900px;	
+}
+table {
+	border: none;
+}
+td {
+	width: 300px;
+	height: 300px;
+}
+.cell_1, .cell_3, .cell_5, .cell_7, .cell_9 {
+	background: #850000;
+} 
+img {
+	width: 300px;
+	height: 300px;
+}
