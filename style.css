@@ -1,13 +1,14 @@
-.general{
+.wrapper{
 	width: 379px;
 	height: 530px;
-	border: solid black 2px;
+	border: solid #000 2px;
 	font-family: Tahoma, sans-serif;
 }
-p {
+h1 {
 	font-size: 22px;
 	text-align: center;
 	margin-top: 15px;
+	font-weight: normal;
 }
 img{
 	height: 288px;
